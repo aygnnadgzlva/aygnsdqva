@@ -161,14 +161,9 @@ Coming Soon 🚀
 
 # 🐍 Contribution Snake
 
-> ⚠️ Enable this after configuring the GitHub Action.
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/aygnnadgzlva/aygnnadgzlva/output/github-contribution-grid-snake-dark.svg">
-
+  <img src="https://raw.githubusercontent.com/aygnnadgzlva/aygnnadgzlva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
-
 ---
 
 # 💡 Quote
