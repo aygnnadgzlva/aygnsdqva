@@ -184,7 +184,7 @@ Coming Soon 🚀
 
 <p align="center">
 
-<img src="assets/background.avif" width="100%">
+<img src="assets/back.jpg" width="100%">
 
 </p>
 
